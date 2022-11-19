@@ -10,7 +10,7 @@ const chalk = require('chalk')
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
-global.autred = false
+global.autred = true 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -21,7 +21,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCeYAl_fba4MZSVULOXN6oqQ'
-global.ig = 'https://www.instagram.com/voltinfinite'
+global.ig = 'https://www.instagram.com/axlfauzixy'
 global.mygc = 'https://chat.whatsapp.com/L7Gdc0JTfpCHGSB5umyUxl'
 global.myweb = 'https://youtube.com/playlist?list=PLfnx8zXCmgN0FtxAZDhJMo-cHJozuvZGz'
 global.linkgrupss = "   https://chat.whatsapp.com/L7Gdc0JTfpCHGSB5umyUxl"
